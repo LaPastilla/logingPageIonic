@@ -1,0 +1,7 @@
+{
+  "name": "logingPageIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
